@@ -1,2 +1,2 @@
-agency_id,agency_name,agency_url,agency_timezone,agency_lang
-TEST,Test Agency,http://www.opentripplanner.org/,America/New_York,en
+agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url
+CS,Causeway Link,http://www.causewaylink.com.my,Asia/Kuala_Lumpur,en,+607360 2244,
